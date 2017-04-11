@@ -1,7 +1,7 @@
 {
-  "name": "authentication-in-react-apps",
+  "name": "sharemybook-application",
   "version": "1.0.0",
-  "description": "Authentication in React Applications, Part 2: JSON Web Token (JWT)",
+  "description": "ShareMyBook Application using React and NodeJS",
   "main": "index.js",
   "scripts": {
     "start": "concurrently  \"webpack\" \"nodemon --use-strict index.js\"",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vladimirponomarev/authentication-in-react-apps.git"
+    "url": ""
   },
-  "author": "Vladimir Ponomarev",
+  "author": "CS554-ShareMyBook Gropu",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^1.0.1",
